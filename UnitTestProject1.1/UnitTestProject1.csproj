@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\1.1\1.1.csproj">
+    <ProjectReference Include="..\1.1\zadacha1.csproj">
       <Project>{f680bc41-a570-418e-961f-6cfc1f076ffa}</Project>
-      <Name>1.1</Name>
+      <Name>zadacha1</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

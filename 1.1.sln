@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.1", "1.1\1.1.csproj", "{F680BC41-A570-418E-961F-6CFC1F076FFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadacha1", "1.1\zadacha1.csproj", "{F680BC41-A570-418E-961F-6CFC1F076FFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1.1", "UnitTestProject1.1\UnitTestProject1.1.csproj", "{35A993C8-52F2-41A3-BD3D-E6CD18C2EB63}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1.1\UnitTestProject1.csproj", "{35A993C8-52F2-41A3-BD3D-E6CD18C2EB63}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadacha2", "zadacha2\zadacha2.csproj", "{38E83D3D-1A62-46B9-B9CC-BF199E4295BF}"
 EndProject

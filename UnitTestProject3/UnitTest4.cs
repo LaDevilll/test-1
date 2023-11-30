@@ -6,7 +6,7 @@ using zadacha4;
 namespace UnitTestProject4
 {
     [TestClass]
-    public class EmailValidatorTests4
+    public class EmailValidatorTests4 
     {
         [TestMethod]
         public void TestMethod1()
